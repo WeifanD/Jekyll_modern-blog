@@ -1,20 +1,50 @@
 ---
-title:  "“老公，你来啦”^_^"
+title:  "“老公 你来啦～”^_^"
 subtitle: "come in~"
-author: "Wferr"
+author: "WE"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
-date:   2015-04-20 12:12:12
+date:   2016-01-24 22:06:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### 01-24
+又是一个深夜，终于在没有bug的情况下，看到📃正常显现的时候，我都快哭出来了，真是的。。怎么说呢，我也没想到真的就做出来了，至少有了些雏形。。深感欣慰。要知道我虽然是个理科女，工科的世界里也还只是个小白菜。。嗯。。创站的初衷可能也只是我回国前，洗澡的时候产生的一个想法而已，我希望下一个情人节能送给你一个特别的🎁，虽然不够精致，但希望你能喜欢。
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+与你相识相知相守至今，可能是之前陌生的我们都难以想象的事情，很感谢你给了我如此多美好的回忆，所以，我想找个地方把它存起来，将那些记忆力的碎片凝聚起来，汇成一汪蜜水。
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+老公啊，好想你呀，你睡得好吗，嗯，现在很晚了，把这篇打完就乖乖上床去，haha～
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+### 01-27
+记不记得有次我在搞微信历史记录导出的事情，结果无能。那个时候还没确定要建个网站，只是想说收集起来以后可以作个类似比较有纪念意义的小东西，但是不得不吐槽微信坑爹的。所以喽，我只好用最原始的方式了。嗯－－其实真的有很多或美好或感伤的东西，是你带给我的，我把它们中的一部分寄放在这里，就感觉他们不只是虚无缥缈的存在。噢，我微信里收藏了一句你很久以前对我说过的话，但是目前还没想到怎么把这个以音频的方式放在这里，恩－－🔊我就自己保留啦，哈哈
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+附上你某次要和我分手的一段话，怎么说，我还挺喜欢的，就放这了：
+
+> 亲爱的微帆
+> 感谢生命中的遇见
+
+> 大学四年以来
+> 我只身异地
+> 在孤独的追逐梦想的四年里 
+> 也曾想拥有一份完美的爱情 
+
+> 在我已经濒临放弃的时刻 
+> 意外的遇见了你 
+> 然后我觉得我们一同度过了我最最幸福的时光 
+
+> 虽然我们异地异国 
+> 但我始终相信坚持过去就是一段最真最珍贵的完美爱情 
+
+> 原谅我今天无法像从前那样收拾自己的情绪 
+> 即使你已经尽力 
+
+> 原谅我今天一切的粗鄙语言和行为 
+> 此刻我万般情绪交织 
+
+> 我是爱你的 
+> 可我不知道怎么收拾复杂的情绪 
+
+> 最后请允许我再叫你一声老婆 
+> 祝你找到合适自己的爱人 
+
+> 马上又要出国了 
+> 珍重！

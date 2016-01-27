@@ -1,20 +1,71 @@
 ---
-title:  "Nobody else was around."
+title:  "Heartbeat"
 subtitle: "A Beautiful shot during the night."
-author: "Wferr"
+author: "蔡刘彦山"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
-date:   2015-04-21 12:12:12
+date:   2015-10-13 17:18:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
+### Battito del cuore
+心跳是生命最原始的律动
 
-### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
+从医学博士哈维首次揭示心血的运动
 
-Suspendisse lorem odio, blandit at nisl quis, hendrerit tempus tellus. Donec eget leo quis nisi vulputate consectetur. Praesent dignissim enim elit, congue luctus nisl cursus at. Sed rutrum molestie risus. Donec vulputate gravida accumsan. Vivamus tempus ullamcorper eleifend. Sed sagittis mi ut dolor tincidunt, ac rutrum nisi commodo.
+到马尔比基新的发现
 
-Fusce non elit in diam rutrum vestibulum. Donec vitae elementum erat. Praesent elementum eget justo at bibendum. Fusce interdum diam lorem, ut placerat elit pretium quis. Quisque eu urna at quam commodo sagittis. Etiam posuere convallis tincidunt. Phasellus vitae ligula neque. Vivamus a purus at dolor iaculis placerat. Curabitur convallis eu lacus congue sagittis.
+我们知道
 
-Aliquam suscipit fermentum mauris a accumsan. In facilisis, mauris quis pulvinar tempus, turpis sapien sodales nibh, nec feugiat augue est quis nisi. Fusce eget odio feugiat, luctus quam et, dapibus nulla. Sed ornare lacus non libero lacinia pretium. In eu dui vitae purus euismod feugiat ac ac est. Morbi vitae pretium lorem, non eleifend felis. Nullam at massa feugiat, rutrum elit at, semper lacus. Etiam vel rutrum felis. Nullam quis auctor lorem, et tempor arcu.
+心的每一次搏动都可能赋予我们新的灵魂
+
+我相信 爱上你的那一刻起
+
+我的灵魂是属于你的
+
+而我的心跳也是想你的心跳 
+
+因为爱连心跳也不一样了
+
+因为心跳不一样了
+
+呼吸也变得不同
+
+所以呼出的空气弥漫在四周的
+
+都是思念的气息
+
+每一个医生都相信﻿
+
+﻿每一次心脏的跳动﻿
+
+﻿都是美好和希望
+
+而每一颗心脏里
+
+都住着灵魂
+
+现在有一位医生相信﻿
+
+﻿每一次心脏的跳动﻿
+
+﻿都包涵着爱情
+
+﻿因为我的心里住着你
+
+因为你
+
+心跳也变得不同
+
+因为心跳不同了﻿
+
+﻿呼吸也变得不同
+
+所以呼出的空气弥漫在四周的﻿
+
+都是思念的气息
+
+所以我沉浸在思念的空气里
+
+所以…
+
+![题字](img/k.jpg)
