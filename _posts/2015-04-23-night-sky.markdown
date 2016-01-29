@@ -4,7 +4,7 @@ subtitle: "写个创站小结吧～"
 author: "Weifan"
 avatar: "img/authors/wferr.png"
 image: "img/d.jpg"
-date:   2015-04-23 12:12:12
+date:   2016-01-23 12:12:12
 ---
 
 创站绝对是一个大坑 我当初真有勇气。。 嗯 这个站主要就是 Github+Jekyll+markdown 基本上还是现在能用的比较习惯的模式 
