@@ -6,7 +6,6 @@ avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
 date:   2016-01-26 12:00:12
 ---
-
 ![云南](img/g.jpg)
 
 > 多少人爱你风韵妩媚的时光，爱你的美丽出自假意或真情，但唯有一人爱你灵魂的至诚，爱你渐衰的脸上愁苦的风霜。
@@ -32,7 +31,6 @@ date:   2016-01-26 12:00:12
 > 在转瞬间消灭了踪影.
 
 ![靠肩](img/z.jpg)
-
-
+{% video //www.youtube.com/embed/Imxftp0SZtE width=560 height=315 %}
 
  

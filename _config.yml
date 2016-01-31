@@ -3,5 +3,6 @@ title: Memory house
 description: Modern-Blog A Elegant template for Jekyll
 keywords: Modern, Blogging, Fun
 author: Weifan
-baseurl: "we" # the subpath of your site, e.g. /blog/
+#baseurl: "we" # the subpath of your site, e.g. /blog/
 url: "yrwfhome.me"# the base hostname & protocol for your site
+gems: ['jekyll_video_tag']
