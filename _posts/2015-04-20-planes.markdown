@@ -51,5 +51,3 @@ date:   2016-01-24 22:06:12
   马上又要出国了 
   珍重！
 ![黑暗](img/q.jpg)
-{% video //www.youtube.com/embed/iBcUGsOJIO8 width=560 height=315 %}
-

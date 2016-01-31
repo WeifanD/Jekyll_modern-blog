@@ -31,6 +31,6 @@ date:   2016-01-26 12:00:12
 > 在转瞬间消灭了踪影.
 
 ![靠肩](img/z.jpg)
-{% video //www.youtube.com/embed/Imxftp0SZtE width=560 height=315 %}
+
 
  
