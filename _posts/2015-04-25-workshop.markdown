@@ -6,9 +6,13 @@ avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
 date:   2016-01-26 12:00:12
 ---
-![云南](img/g.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Imxftp0SZtE" frameborder="0" allowfullscreen></iframe>
 
 > 多少人爱你风韵妩媚的时光，爱你的美丽出自假意或真情，但唯有一人爱你灵魂的至诚，爱你渐衰的脸上愁苦的风霜。
+
+![云南](img/g.jpg)
+
+> 愿有岁月可白首，且以情深共白头。
 
 ![合照](img/i.jpg)
 
